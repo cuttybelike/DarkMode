@@ -1,4 +1,4 @@
-PartC: Advanced Settings For User Interface
+# PartC: Advanced Settings For User Interface
 
 Unfortunately this is a poor video explaining how to access the advanced system settings in Windows10. Other than the horrible music playing in the background that takes away from his explanation, the video does provide a visual walkthrough on how to access the advanced feature in PC properties. The video also goes on to show how to configure performance options and gives a brief mention about task manager.[click here](https://www.youtube.com/watch?v=YseMMbeDB9M)
 
